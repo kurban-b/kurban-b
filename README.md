@@ -1,9 +1,6 @@
 ## <b>Hi there 👋 My name is Kurban</b>
-<br>
-
 ## I am a front-end developer 
 ***
-<br>
 
 ### My projects
 

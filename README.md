@@ -6,9 +6,9 @@
 
 ### My projects
 
-* Десктопный чат
+* Десктопный чат <a href='https://github.com/kurban-b/recruit-app'>Код</a> | <a href='https://whispering-sierra-58363.herokuapp.com'>Демо</a>
 * Приложение для помощи при найме персонала
-* ...
+* 
 
 ### Skills 
 <img align='left' height='35px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>

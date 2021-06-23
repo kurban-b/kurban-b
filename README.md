@@ -1,4 +1,7 @@
 # <b>Hi there 👋 My name is Kurban</b> <img  height='20px' src='https://www.codewars.com/users/Kurban95/badges/micro'>
+
+![](https://komarev.com/ghpvc/?username=kurban-b)
+
 ## I am a front-end developer 
 
 ### My projects
@@ -18,7 +21,13 @@
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/redux-saga.svg'>
 <img align='left' height='35px' src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"/>
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/git-icon.svg'>
-<img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/material-ui-1.svg'>
+<img height='35px' src='https://cdn.worldvectorlogo.com/logos/material-ui-1.svg'>
 
+<br>
 
-
+<details>
+    <summary>Statistics</summary>
+    <img src='https://github-readme-stats.vercel.app/api?username=kurban-b&show_icons=true' />
+    <br/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kurban-b&layout=compact' />
+</details>

@@ -26,7 +26,7 @@
 <br>
 
 <details>
-    <summary>Statistics</summary>
+    <summary>:zap: Statistics</summary>
     <img src='https://github-readme-stats.vercel.app/api?username=kurban-b&show_icons=true' />
     <br/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kurban-b&layout=compact' />

@@ -1,6 +1,5 @@
-## <b>Hi there 👋 My name is Kurban</b>
+# <b>Hi there 👋 My name is Kurban</b>
 ## I am a front-end developer 
-***
 
 ### My projects
 

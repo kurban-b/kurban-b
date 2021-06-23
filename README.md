@@ -20,11 +20,8 @@
 <img align='left' height='35px' src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg'>
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/redux-saga.svg'>
-<img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/react-router.svg'>
+
 <img align='left' height='35px' src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"/>
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/git-icon.svg'>
-<img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/prettier-2.svg'>
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/material-ui-1.svg'>
-<img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/momentjs.svg'>
-<img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/heroku-4.svg'>
-<img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg'>
+

@@ -1,4 +1,4 @@
-# <b>Hi there 👋 My name is Kurban</b>
+# <b>Hi there 👋 My name is Kurban</b> <img  height='20px' src='https://www.codewars.com/users/Kurban95/badges/micro'>
 ## I am a front-end developer 
 
 ### My projects
@@ -16,8 +16,13 @@
 <img align='left' height='35px' src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg'>
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/redux-saga.svg'>
-
 <img align='left' height='35px' src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"/>
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/git-icon.svg'>
 <img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/material-ui-1.svg'>
+
+
+
+#### Reselect
+
+<img align='left' height='15px' src='https://www.codewars.com/users/Kurban95/badges/small'>
 

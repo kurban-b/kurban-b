@@ -1,6 +1,6 @@
-# <b>Hi there 👋 My name is Kurban</b> <img  height='20px' src='https://www.codewars.com/users/Kurban95/badges/micro'>
+# <b>Hi there 👋 My name is Kurban</b> 
 
-![](https://komarev.com/ghpvc/?username=kurban-b)
+![](https://komarev.com/ghpvc/?username=kurban-b) <img  height='20px' src='https://www.codewars.com/users/Kurban95/badges/micro'>
 
 ## I am a front-end developer 
 

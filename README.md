@@ -22,7 +22,3 @@
 
 
 
-#### Reselect
-
-<img align='left' height='15px' src='https://www.codewars.com/users/Kurban95/badges/small'>
-

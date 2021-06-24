@@ -30,6 +30,7 @@
 
 <details>
     <summary>:zap: Statistics</summary>
+    <br/>
     <img width='450px' src='https://github-readme-stats.vercel.app/api?username=kurban-b&show_icons=true' />
     <br/>
     <img width='450px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kurban-b&layout=compact' />

@@ -12,7 +12,6 @@
 ### Other works
 
 * Игра наподобие морского боя (на чистом JS) <a href='https://github.com/kurban-b/sea-battle-game'>Код</a> | <a href='https://kurban-b.github.io/game-sea-battle/'>Демо</a>
-* Калькулятор (на чистом JS) <a href='https://github.com/kurban-b/kurban-b.github.io/tree/main/calc-js'>Код</a> | <a href='https://kurban-b.github.io/calc-js/'>Демо</a>
 
 ### Skills 
 <img align='left' height='35px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>

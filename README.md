@@ -6,8 +6,8 @@
 
 ### My projects
 
-* Десктопный чат (React, Redux) <a href='https://github.com/kurban-b/react-chat'>Код</a> | <a href='https://react-chat-desk.herokuapp.com/'>Демо</a>
 * Приложение для помощи HR-менеджерам при найме персонала (React, Redux, Material-UI) <a href='https://github.com/kurban-b/recruit-app'>Код</a> | <a href='https://whispering-sierra-58363.herokuapp.com'>Демо</a>
+* Десктопный чат (React, Redux) <a href='https://github.com/kurban-b/react-chat'>Код</a> | <a href='https://react-chat-desk.herokuapp.com/'>Демо</a>
 
 ### Other works
 

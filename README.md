@@ -8,6 +8,7 @@
 
 * Приложение для помощи HR-менеджерам при найме персонала (React, Redux, Material-UI) <a href='https://github.com/kurban-b/recruit-app'>Код</a> | <a href='https://whispering-sierra-58363.herokuapp.com'>Демо</a>
 * Десктопный чат (React, Redux) <a href='https://github.com/kurban-b/react-chat'>Код</a> | <a href='https://react-chat-desk.herokuapp.com/'>Демо</a>
+* Одностраничное web-приложение ресторана быстрой еды (React, Redux) <a href='https://github.com/kurban-b/delivery-food-app'>Код</a> | <a href='https://delivery-foood-app.herokuapp.com/'>Демо</a>
 
 ### Other works
 

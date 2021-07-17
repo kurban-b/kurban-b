@@ -12,7 +12,7 @@
 
 ### Other works
 
-* Арифметическая викторина (React, Redux) <a href='https://github.com/kurban-b/sea-battle-game'>Код</a> | <a href='https://math-tests-app.herokuapp.com/'>Демо</a>
+* Арифметическая викторина (React, Redux) <a href='https://github.com/kurban-b/math-tests-app'>Код</a> | <a href='https://math-tests-app.herokuapp.com/'>Демо</a>
 * Игра наподобие морского боя (на чистом JS) <a href='https://github.com/kurban-b/sea-battle-game'>Код</a> | <a href='https://kurban-b.github.io/game-sea-battle/'>Демо</a>
 
 ### Skills 

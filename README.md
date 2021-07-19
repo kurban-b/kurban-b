@@ -22,7 +22,7 @@
 ![Redux](https://img.shields.io/badge/Redux-yellow?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typeScript)
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.JS)
-![Reselect](https://img.shields.io/badge/Reselect-blue?style=for-the-badge&logo=reselect)
+![Reselect](https://img.shields.io/badge/Reselect-red?style=for-the-badge&logo=reselect)
 ![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-blue?style=for-the-badge&logo=redux-thunk)
 ![React-Router](https://img.shields.io/badge/React_Router-yellow?style=for-the-badge&logo=react-router)
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)

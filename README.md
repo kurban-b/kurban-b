@@ -28,6 +28,7 @@
 ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=sass)
+![SASS](https://img.shields.io/badge/CSS-modules-black?style=flat-square&logo=css-modules)
 ![Material-UI](https://img.shields.io/badge/Material-UI-black?style=flat-square&logo=material-ui)
 ![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=prettier)
 ![ESLint](https://img.shields.io/badge/ESLint-black?style=flat-square&logo=eslint)

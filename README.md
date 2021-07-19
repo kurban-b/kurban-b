@@ -16,17 +16,22 @@
 * Игра наподобие морского боя (на чистом JS) <a href='https://github.com/kurban-b/sea-battle-game'>Код</a> | <a href='https://kurban-b.github.io/game-sea-battle/'>Демо</a>
 
 ### Skills 
-<img align='left' height='35px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align='left' height='35px' src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align='left' height='35px' src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align='left' height='35px' src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
-<img align='left' height='35px' src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img align='left' height='35px' src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg'>
-<img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/redux-saga.svg'>
-<img align='left' height='35px' src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"/>
-<img align='left' height='35px' src='https://cdn.worldvectorlogo.com/logos/git-icon.svg'>
-<img height='35px' src='https://cdn.worldvectorlogo.com/logos/material-ui-1.svg'>
+
+![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
+![Reselect](https://img.shields.io/badge/Reselect-black?style=flat-square&logo=reselect)
+![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-black?style=flat-square&logo=redux-thunk)
+![React-Router](https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap)
+![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=sass)
+![Material-UI](https://img.shields.io/badge/Material-UI-black?style=flat-square&logo=material-ui)
+![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=prettier)
+![ESLint](https://img.shields.io/badge/ESLint-black?style=flat-square&logo=eslint)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=nodeJS)
 
 <br>
 

@@ -26,7 +26,7 @@
 ![React-Router](https://img.shields.io/badge/React_Router-yellow?style=for-the-badge&logo=react-router)
 ![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-green?style=for-the-badge&logo=Bootstrap)
-![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5)
+![HTML](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=sass)
 ![CSS-modules](https://img.shields.io/badge/CSS-modules-grey?style=for-the-badge&logo=css-modules)

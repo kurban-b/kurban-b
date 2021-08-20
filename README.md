@@ -10,10 +10,6 @@
 * Десктопный чат (React, Redux) <a href='https://github.com/kurban-b/react-chat'>Код</a> | <a href='https://react-chat-desk.herokuapp.com/'>Демо</a>
 * Одностраничное web-приложение ресторана быстрой еды с адаптивной версткой (React, Redux) <a href='https://github.com/kurban-b/delivery-food-app'>Код</a> | <a href='https://delivery-foood-app.herokuapp.com/'>Демо</a>
 
-### Other works
-
-* Арифметическая викторина (React, Redux) <a href='https://github.com/kurban-b/math-tests-app'>Код</a> | <a href='https://math-tests-app.herokuapp.com/'>Демо</a>
-
 ### Skills 
 
 ![JS](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javaScript)
